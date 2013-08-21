@@ -2,7 +2,7 @@
     "name": "qrcodesvg",
     "description": "Create personalized Qr Code in Javascript",
     "homepage": "https://github.com/sacketty/meteor-qrcodesvg",
-    "author": "Henri Sack ",
+    "author": "Henri Sack <sacketty@gmail.com>",
     "version": "0.1.0",
     "git": "https://github.com/sacketty/meteor-qrcodesvg.git"
 }
